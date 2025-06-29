@@ -1,36 +1,34 @@
 ### Welcome, unknow person!
 
 ## My history
-- My name is Diego Martins and I've been a PHP developer since version 4.4.9 (which was the first version I saw being updated)!
+- My name is Diego Martins and I've been a Delphi developer since version 12.0 (2009) (which was the first version I saw being updated)!
  
-- I also became a JavaScript developer in 2014, when I started to have my first experiences with Angular, Ionic and jQuery. Today I am a specialist in the development of hybrid PWA, Web and Mobile applications using VueJS.
+- I also became a JavaScript developer in 2010, when I started to have my first experiences with Angular, Ionic and jQuery. Today I am a specialist in the development of hybrid PWA, Web and Mobile applications using ReactJS and React Native.
  
 - I am born and raised in Rio de Janeiro, Brazil. I had experiences working for companies in Rio Grande (RS), Novo Hamburgo (RS), Araraquara (SP) and São Paulo (SP), some in remote ways and others in person.
  
 - My big goal is to evolve professionally and my technical skills in all the projects I do, always taking the experiences given by them.
  
 - I do not discard possibilities for new experiences and opportunities, always aware of them in a safe, legal and adaptive way.
-
-> "_Make your life more responsive!_" - Luana Monteiro
  
 
 ## Projects
 
-- Back-end and front-end Ecommerce (Web, PWA, iOS, Android and Desktop) with PHP (Laravel, Lumen), JavaScript (VueJS), Database (MySQL, MariaDB and MongoDB)
+- Back-end and front-end with experience on Web, PWA, iOS, Android and Desktop applications with stacks PHP (Laravel, Lumen), JavaScript/Typescript (VueJS, ReactJS), Database (MySQL, MariaDB, MongoDB, SQL Server and Redis)
 
-- Professional applications (width Cordova and Capacitor)
+- Professional mobile applications (with Cordova, Capacitor, React Native and Flutter)
 
 - Custom CRM, ERM and CMS to companies
 
-- UI/UX Beginner experience
+- UI/UX Hard experience
 
-- SCRUM and Kanban methodologies
+- SCRUM, Kanban, Lean and XP methodologies
 
-- API RESTFUL
+- API RESTful, REST, GraphQL and SOAP
 
-- Payment systems like PagSeguro, PayPal, Pagar.me and Mercado Pago
+- Payment systems like PagSeguro, PayPal, Pagar.me, Mercado Pago, Strip and PicPay
 
-- Leadership experience in project management and development organizations with staff
+- Solid leadership experience in project management and development organizations with staff
 
 
 
