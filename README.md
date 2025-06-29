@@ -1,7 +1,7 @@
 ### Welcome, unknow person!
 
 ## My history
-- My name is Diego Martins and I've been a Delphi developer since version 12.0 (2009) (which was the first version I saw being updated)!
+- My name is Diego Martins and I've been a Delphi developer since version 9.0 (2005) (which was the first version I saw being updated)!
  
 - I also became a JavaScript developer in 2010, when I started to have my first experiences with Angular, Ionic and jQuery. Today I am a specialist in the development of hybrid PWA, Web and Mobile applications using ReactJS and React Native.
  
